@@ -15,7 +15,7 @@ body
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
-    
+
 }
 #profile-image
 {
@@ -36,6 +36,7 @@ height: auto;
     background-color: burlywood;
     text-align: center;
     color: white;
+    bottom: 0;
 }
 #header
 {
